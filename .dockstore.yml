@@ -1,0 +1,5 @@
+version: 1.2 # The .dockstore.yml schema version
+notebooks:
+  - format: JUPYTER
+    language: PYTHON
+    path: /GWAS_initial_analysis_completed.ipynb
