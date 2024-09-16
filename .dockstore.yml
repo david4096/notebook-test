@@ -3,3 +3,6 @@ notebooks:
   - format: JUPYTER
     language: PYTHON
     path: /GWAS_initial_analysis_completed.ipynb
+  - format: JUPYTER
+    language: PYTHON
+    path: /GWAS_initial_analysis_completed.ipynb
